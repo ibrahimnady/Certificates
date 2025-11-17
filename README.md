@@ -18,18 +18,7 @@ This repo serves as a structured portfolio for my certifications, showcasing my 
 All certificates are obtained from trusted learning platforms including **DataScience 365**, Coursera, Udemy, and Meta programs.
 
 
-## 🖼️ Preview Samples
 
-You can preview certificates directly from the image files inside each folder.
-
-[تحميل PDF](Certificates/certificate-name.pdf)
-
-
-## 📥 Download PDFs
-
-Each certificate has a corresponding PDF file available for download inside its folder.
-
----
 
 ## 🧑‍💻 Author
 
