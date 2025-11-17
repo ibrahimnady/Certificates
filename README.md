@@ -17,7 +17,7 @@ This repo serves as a structured portfolio for my certifications, showcasing my 
 
 All certificates are obtained from trusted learning platforms including **DataScience 365**, Coursera, Udemy, and Meta programs.
 
-<img align="right" height="180" src="https://github.com/ibrahimnady/Certificates/blob/main/Data_Visulaziation.jpeg" alt="data gif"/>
+
 
 
 ## 🧑‍💻 Author
@@ -31,3 +31,4 @@ GitHub Profile: [ibrahimnady](https://github.com/ibrahimnady)
 ## ⭐ Support
 
 If you found the structure useful, feel free to star the repository!
+<img align="right" height="180" src="https://github.com/ibrahimnady/Certificates/blob/main/Data_Visulaziation.jpeg" alt="data gif"/>
