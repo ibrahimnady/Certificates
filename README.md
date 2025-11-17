@@ -22,13 +22,8 @@ All certificates are obtained from trusted learning platforms including **DataSc
 
 You can preview certificates directly from the image files inside each folder.
 
-Example:
+[تحميل PDF](Certificates/certificate-name.pdf)
 
-```
-Advanced SQL.jpeg
-```
-
----
 
 ## 📥 Download PDFs
 
