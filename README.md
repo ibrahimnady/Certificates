@@ -27,7 +27,7 @@ The certificates are organized into folders for easy navigation:
 Certificates/
 │
 ├── DataScience365/
-│   ├── Certificate-Name.jpg/png
+│   ├── Advanced SQL.jpeg
 │   ├── Certificate-Name.pdf
 │
 ├── Coursera/
@@ -45,27 +45,7 @@ Certificates/
 
 ---
 
-## 🧾 Certificates List
 
-### 📘 DataScience 365
-
-Below is the list of certifications completed under the DataScience 365 program:
-
-* *Add your certificate titles here*
-
-### 🎓 Coursera
-
-* *Add Coursera certificate titles here*
-
-### 🟪 Udemy
-
-* *Add Udemy certificate titles here*
-
-### 🔵 Meta Programs
-
-* *Add Meta certificate titles here*
-
----
 
 ## 🖼️ Preview Samples
 
