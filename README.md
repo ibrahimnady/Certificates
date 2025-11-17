@@ -31,4 +31,4 @@ GitHub Profile: [ibrahimnady](https://github.com/ibrahimnady)
 ## ⭐ Support
 
 If you found the structure useful, feel free to star the repository!
-<img align="right" height="180" src="https://github.com/ibrahimnady/Certificates/blob/main/Data_Visulaziation.jpeg" alt="data gif"/>
+<img align="Center" height="180" src="https://github.com/ibrahimnady/Certificates/blob/main/Data_Visulaziation.jpeg" alt="data gif"/>
