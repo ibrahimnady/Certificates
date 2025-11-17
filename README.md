@@ -17,35 +17,6 @@ This repo serves as a structured portfolio for my certifications, showcasing my 
 
 All certificates are obtained from trusted learning platforms including **DataScience 365**, Coursera, Udemy, and Meta programs.
 
----
-
-## 🗂️ Repository Structure
-
-The certificates are organized into folders for easy navigation:
-
-```
-Certificates/
-│
-├── DataScience365/
-│   ├── Advanced SQL.jpeg
-│   ├── Certificate-Name.pdf
-│
-├── Coursera/
-│   ├── Certificate-Name.jpg/png
-│   ├── Certificate-Name.pdf
-│
-├── Udemy/
-│   ├── Certificate-Name.jpg/png
-│   ├── Certificate-Name.pdf
-│
-└── Meta/
-    ├── Certificate-Name.jpg/png
-    ├── Certificate-Name.pdf
-```
-
----
-
-
 
 ## 🖼️ Preview Samples
 
@@ -54,7 +25,7 @@ You can preview certificates directly from the image files inside each folder.
 Example:
 
 ```
-DataScience365/Certificate-Example.jpg
+Advanced SQL.jpeg
 ```
 
 ---
